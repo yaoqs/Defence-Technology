@@ -6,11 +6,8 @@ Defence technology/防务技术
 - [知远战略与防务研究所](http://www.knowfar.org.cn/)
 
 - 简氏 <https://www.janes.com/>
-
 - 波音 <https://www.boeing.com/>
-
 - 洛马 <https://lockheedmartin.com/>
-
 - 雷神 <https://www.rtx.com/>
 
 ## [Undersea Defence Technology (UDT)](https://www.udt-global.com)
@@ -20,3 +17,6 @@ Defence technology/防务技术
 As the largest global event dedicated to the underwater defence industry, is a multi-faceted exhibition and conference reflecting the community’s desire for continuous learning and development.
 
 Designed to equip nations to deal with an increasing diversity of threats and challenges, UDT brings together researchers, military end-users and professionals spanning the entire supply chain to evaluate developing solutions in one of the harshest environments known to man.
+
+## [Naval Sensor Systems](https://www.twz.com/category/naval-sensor-systems)
+
