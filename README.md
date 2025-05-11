@@ -9,6 +9,7 @@ Defence technology/防务技术
 - 波音 <https://www.boeing.com/>
 - 洛马 <https://lockheedmartin.com/>
 - 雷神 <https://www.rtx.com/>
+- [The War Zone](https://www.twz.com) — also known by the shorthand TWZ — has become an essential resource for the defense industry, the national security community, and the interested public at large since it was launched in 2016.
 
 ## [Undersea Defence Technology (UDT)](https://www.udt-global.com)
 
